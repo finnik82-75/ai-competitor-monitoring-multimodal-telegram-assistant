@@ -170,14 +170,13 @@
 
 | Описание | Файл |
 |----------|------|
-| Веб-интерфейс: главный экран и выбор типа анализа | `docs/screenshots/web-dashboard.png` |
-| Результат анализа текста: сильные/слабые стороны, рекомендации | `docs/screenshots/text-analysis-result.png` |
-| Результат Vision-анализа: оценка стиля и инсайты | `docs/screenshots/vision-analysis-result.png` |
-| Парсинг сайта: ввод URL и отчёт по странице | `docs/screenshots/parse-demo.png` |
-| История запросов и быстрый доступ к прошлым отчётам | `docs/screenshots/history.png` |
-| Десктоп-клиент (PyQt6): запуск анализа и просмотр сводки | `docs/screenshots/desktop-client.png` |
+| Веб-интерфейс: главный экран и выбор типа анализа |![Telegram dialog] `docs/screenshots/web-dashboard.png` |
+| Результат анализа текста: сильные/слабые стороны, рекомендации |![Telegram dialog] `docs/screenshots/text-analysis-result.png` |
+| Результат Vision-анализа: оценка стиля и инсайты | ![Telegram dialog](docs/screenshots/анализ изображений 2).png) |
+| Парсинг сайта: ввод URL и отчёт по странице |![Telegram dialog] `docs/screenshots/parse-demo.png` |
+| История запросов и быстрый доступ к прошлым отчётам |![Telegram dialog] `docs/screenshots/history.png` |
+| Десктоп-клиент (PyQt6): запуск анализа и просмотр сводки |![Telegram dialog] `docs/screenshots/desktop-client.png` |
 
-*Скриншоты можно добавить в репозиторий в каталог `docs/screenshots/` и обновить пути при необходимости.*
 
 ---
 
